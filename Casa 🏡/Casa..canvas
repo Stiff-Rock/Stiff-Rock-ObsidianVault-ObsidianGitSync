@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"dd01b040ffff1dba","type":"file","file":"Casa 🏡/Comida/Despensa.md","x":-78,"y":69,"width":358,"height":971,"color":"1"},
+		{"id":"5227a83ce6daf5c3","type":"file","file":"Casa 🏡/Nevera.md","x":320,"y":69,"width":280,"height":971,"color":"5"},
+		{"id":"e66db39f4d1013cb","type":"file","file":"Casa 🏡/Limpieza.md","x":640,"y":69,"width":320,"height":811,"color":"3"}
+	],
+	"edges":[]
+}
