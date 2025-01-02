@@ -1,0 +1,2 @@
+### [[Trucos]]
+### [[Hechizos]]
