@@ -1,0 +1,36 @@
+
+- Pimiento
+	- [x] Rojo
+	- [x] Verde
+	- [ ] Amarillo
+- Hoja verde
+	- [x] Iceberg
+	- [ ] Col
+	- [ ] Espinacas
+	- [ ] Acelgas
+- [ ] Calabacín
+- [ ] Zanahoria
+- [x] Tomates
+- [x] Cebolla
+- [ ] Berenjena
+- [ ] Pepino
+- [ ] Pepinillo
+- [ ] Jalapeño
+- [ ] Pesto
+- [ ] Champiñones
+- [x] Granada
+- [ ] Manzana 
+- Queso
+	- [x] Mozzarela 
+	- [x] Polvo 
+	- [x] Sándwich 
+	- [ ] Gouda
+	- [ ] Chedar 
+	- [x] Azul
+- [x] Huevos
+- [x] Margarina 
+- Salsas
+	- [x] Ketchup
+	- [x] Mayonesa
+	- [x] Miel/Mostaza
+	- [ ] 
